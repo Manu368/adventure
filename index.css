@@ -1,0 +1,127 @@
+.logo-heading {
+    font-size: 25px;
+    font-family: "Roboto";
+    color: #f23889;
+}
+
+.bg-container {
+    background-image: url("https://res.cloudinary.com/dqrttxm5s/image/upload/v1668063703/mountain_lea0bm.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.heading01 {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-style: italic;
+    font-weight: 500;
+}
+
+.horizontal01 {
+    background-color: #f23889;
+    width: 120px;
+    height: 2px;
+    margin-top: 3px;
+}
+
+.heading02 {
+    color: #ffffff;
+    font-family: Sans-serif;
+    font-size: 38px;
+    font-weight: bold;
+    margin-top: 35px;
+}
+
+.button01 {
+    color: #ffffff;
+    font-size: 12px;
+    background-color: #f23889;
+    border-width: 0px;
+    border-radius: 8px;
+}
+
+.bg-container01 {
+    background-color: #ffffff;
+    background-size: cover;
+}
+
+.heading03 {
+    color: #10374a;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.image01 {
+    width: 250px;
+    height: 250px;
+}
+
+.cpation {
+    color: #10374a;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.paragraph01 {
+    color: #bec4c0;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.button02 {
+    color: #ffffff;
+    font-size: 12px;
+    background-color: #f23889;
+    border-width: 0px;
+    border-radius: 8px;
+    width: 100px;
+    height: 40px;
+}
+
+.bg-container02 {
+    background-image: url("https://res.cloudinary.com/dqrttxm5s/image/upload/v1668096134/EXPLORE_THE_WORLD_jge3ld.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.heading04 {
+    color: #ffffff;
+    font-family: Sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 35px;
+    margin-left: 30px;
+}
+
+.horizontal02 {
+    background-color: #f23889;
+    width: 120px;
+    height: 2px;
+    margin-top: 3px;
+    margin-left: 100px;
+}
+
+.paragraph02 {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.heading05 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.bg-footer {
+    background-color: #323f4b;
+    background-size: cover;
+}
